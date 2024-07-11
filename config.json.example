@@ -1,0 +1,26 @@
+{
+  "server_id": "",
+  "author": {
+    "system": false,
+    "bot": false
+  },
+  "forbidden_url": {
+    "delete_message": true,
+    "ban_user": false,
+    "list": [
+      "google.com",
+      "discord.com"
+    ]
+  },
+  "hidden_url": {
+    "delete_message": true
+  },
+  "delete_message": {
+    "show_warning_embed": true,
+    "embed_show_time": 5000
+  },
+  "link_permission": {
+    "allowed_role_id": "",
+    "time_spend": 100
+  }
+}
